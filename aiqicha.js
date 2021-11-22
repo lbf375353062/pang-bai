@@ -1,5 +1,5 @@
 /*
-0 0,30 8 * * ? https://github.com/pangbai6/pang-bai.git/aiqicha.js 
+0-59/15 * * * * ? https://github.com/pangbai6/pang-bai.git/aiqicha.js 
 csdn抓包教程 https://blog.csdn.net/m0_61705773?spm=1001.2014.3001.5343
  
 
